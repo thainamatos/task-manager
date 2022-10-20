@@ -13,6 +13,16 @@
   }
 }
 
+.container {
+  max-width: 500px;
+  margin: 30px auto;
+  overflow: auto;
+  min-width: 300px;
+  border: 2px solid chartreuse;
+  padding: 30px;
+  border-radius: 10px;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
